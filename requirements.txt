@@ -1,0 +1,6 @@
+aiogram==2.25.1
+pyrogram==2.0.106
+tgcrypto
+yt-dlp
+flask
+ffmpeg-python
